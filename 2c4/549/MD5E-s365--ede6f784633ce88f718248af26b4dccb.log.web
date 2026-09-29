@@ -1,0 +1,14 @@
+1790704735s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/average/.zarray?versionId=FvFff.oVeIR9czZSVyEBq8E2kVkWCJmO
+1790704735s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Faverage%2F.zarray&download=true
+1790704737s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/median/.zarray?versionId=.LdwvPKM7nTYeK31dFSlqu_.5R2uCoJK
+1790704737s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fmedian%2F.zarray&download=true
+1790704740s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/percentile_1/.zarray?versionId=kDCcvoPJb3a7No6_m0kOIeql9G3RwHkE
+1790704740s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fpercentile_1%2F.zarray&download=true
+1790704743s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/percentile_25/.zarray?versionId=CoCLH0U0gRLPgoUtp4Y8_y2MrhO_v.4h
+1790704743s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fpercentile_25%2F.zarray&download=true
+1790704746s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/percentile_75/.zarray?versionId=21cStbQRhQFgENXEnqiDH4h58XtziWfx
+1790704746s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fpercentile_75%2F.zarray&download=true
+1790704748s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/percentile_99/.zarray?versionId=FKPvzgEl8RAPmqMFj99qnbZYgMg4CZq9
+1790704748s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fpercentile_99%2F.zarray&download=true
+1790704751s 1 https://dandiarchive.s3.amazonaws.com/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/extensions/templates/std/.zarray?versionId=YlCR34UeccOYabF1qbpF8IQz_iznYEZ3
+1790704751s 1 https://api.dandiarchive.org/api/zarr/c3454a10-4a55-46e1-a8e4-1e9a0a118897/files?prefix=extensions%2Ftemplates%2Fstd%2F.zarray&download=true
